@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ismaelhdabe
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning JavaScript, HTML, CSS and many other stuff to heml me
+- 🌱 I enjoy Web and Software development with libraries like React and languages like JavaScript
 - 📫 How to reach me? Twitter @IshHDabe
 
 <!---
